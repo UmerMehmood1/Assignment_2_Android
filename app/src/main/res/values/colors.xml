@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary and Secondary Colors -->
+    <color name="primary">#4CAF50</color> <!-- Green for the main accent color -->
+    <color name="primary_dark">#388E3C</color> <!-- Darker shade of green for emphasis -->
+    <color name="primary_light">#A5D6A7</color> <!-- Lighter shade of green for background accents -->
+
+    <color name="secondary">#66BB6A</color> <!-- Secondary green for subtle accents -->
+    <color name="secondary_dark">#338a3e</color> <!-- Darker version of secondary for emphasis -->
+
+    <!-- Text Colors -->
+    <color name="black">#000000</color> <!-- For primary text color -->
+    <color name="white">#FFFFFF</color> <!-- For buttons and icons on dark backgrounds -->
+    <color name="gray">#757575</color> <!-- For secondary text or placeholder text -->
+
+    <!-- Background Colors -->
+    <color name="background_light">#F1F8E9</color> <!-- Soft, neutral greenish background color -->
+    <color name="background_dark">#E8F5E9</color> <!-- Slightly darker for cards and sections -->
+
+    <!-- Divider and Border Colors -->
+    <color name="divider">#BDBDBD</color> <!-- Light gray for dividers between items -->
+</resources>
+
